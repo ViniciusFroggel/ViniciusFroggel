@@ -9,21 +9,6 @@
 </p>
 
 <p align="left">
-    <a href="https://github.com/ViniciusFroggel">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ViniciusFroggel?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/ViniciusFroggel">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ViniciusFroggel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-<p align="left">
   <a href="https://www.linkedin.com/in/viniciusfroggel/" target="_blank">
     <img 
       src="https://img.shields.io/badge/LinkedIn-11%20conexões-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
