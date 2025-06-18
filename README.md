@@ -56,3 +56,12 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusFroggel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+<h3>📌 Contato Profissional</h3>
+
+<a href="https://www.linkedin.com/in/viniciusfroggel/" target="_blank" style="text-decoration: none;">
+  <div style="display: inline-flex; align-items: center; background-color: #0e76a8; color: white; padding: 6px 12px; border-radius: 4px; font-weight: bold; font-family: Arial, sans-serif;">
+    <span style="background-color: #333; padding: 4px 8px; margin-right: 8px; border-radius: 4px; font-size: 12px;">LINKEDIN</span>
+    <span style="font-size: 14px;">VINICIUS FROGGEL</span>
+  </div>
+</a>
+
