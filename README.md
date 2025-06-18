@@ -2,14 +2,14 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Vinicius André Froggel de Miranda, tenho 21 anos e sou natural de Curitiba. Atualmente, estou cursando Engenharia de Software na PUCPR. 
+Me chamo Vinicius André Froggel de Miranda, tenho 21 anos e sou natural de Curitiba. Atualmente, estou cursando Engenharia de Software na PUCPR.
 
 <p align="left">
     <a href="https://github.com/ViniciusFroggel">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ViniciusFroggel?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/ViniciusFroggel?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/ViniciusFroggel">
@@ -43,6 +43,8 @@ Me chamo Vinicius André Froggel de Miranda, tenho 21 anos e sou natural de Curi
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -51,7 +53,7 @@ Me chamo Vinicius André Froggel de Miranda, tenho 21 anos e sou natural de Curi
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ViniciusFroggel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=ViniciusFroggel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&custom_title=Estatísticas&token=SEU_TOKEN_AQUI" 
   />
 
   <img 
