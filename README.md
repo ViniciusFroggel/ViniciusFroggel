@@ -39,4 +39,4 @@ Atualmente, estou cursando **Pós-Graduação em Engenharia de Software e DevOps
 ## 📞 Contato Profissional
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-VINICIUS%20FROGGEL-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusfroggel/)
-``
+
