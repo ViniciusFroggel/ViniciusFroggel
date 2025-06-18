@@ -19,13 +19,15 @@ Me chamo Vinicius André Froggel de Miranda, tenho 21 anos e sou natural de Curi
             src="https://custom-icon-badges.demolab.com/github/followers/ViniciusFroggel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/viniciusfroggel/" target="_blank">
-        <img 
-            src="https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin&logoColor=white" 
-            alt="LinkedIn"
-        />
-    </a>
+   <p align="left">
+  <a href="https://www.linkedin.com/in/viniciusfroggel/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-500%2B%20conexões-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
+  </a>
 </p>
+
 
 
 ---
