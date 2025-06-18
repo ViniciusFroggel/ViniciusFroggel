@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Vinicius André Froggel de Miranda, tenho 21 anos e sou natural de Curitiba. Atualmente, estou cursando Engenharia de Software na PUCPR.
+Me chamo Vinicius André Froggel de Miranda, tenho 21 anos e sou natural de Curitiba. Atualmente, estou cursando pós em Engenharia de Software e DEVops na PUCPR.
 
 <p align="left">
     <a href="https://github.com/ViniciusFroggel">
