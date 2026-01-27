@@ -6,6 +6,8 @@ Me chamo **Vinicius André Froggel de Miranda**, tenho 21 anos e sou natural de 
 Sou formado em bacharel em Engenharia de Software pela **UniBrasil (2024)**.  
 Atualmente, estou cursando **Pós-Graduação em Engenharia de Software e DevOps** pela **PUCPR**.
 
+https://vinicius-my-portfolio.vercel.app/
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-11%20conexões-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusfroggel/)
 
 ---
