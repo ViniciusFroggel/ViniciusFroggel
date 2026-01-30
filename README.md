@@ -24,18 +24,6 @@ https://vinicius-my-portfolio.vercel.app/
 
 ---
 
-## 📊 GitHub Stats & Badges
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/ViniciusFroggel?style=for-the-badge)  
-![GitHub stars](https://img.shields.io/github/stars/ViniciusFroggel?style=for-the-badge)  
-![GitHub repo count](https://img.shields.io/github/repo-count/ViniciusFroggel?style=for-the-badge)
-
-</div>
-
----
-
 ## 📞 Contato Profissional
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinicius%20Froggel-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusfroggel/)
