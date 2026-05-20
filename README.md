@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack**
 
-Olá! Me chamo **Vinicius André Froggel de Miranda**, tenho 21 anos e sou natural de Curitiba – PR.  
+Olá! Me chamo **Vinicius André Froggel de Miranda**, tenho 22 anos e sou natural de Curitiba – PR.  
 Sou formado em **Bacharelado em Engenharia de Software** pela **UniBrasil (2024)** e atualmente estou cursando **Pós-Graduação em Engenharia de Software e DevOps** pela **PUCPR**.
 
 🔗 **Portfólio:**  
